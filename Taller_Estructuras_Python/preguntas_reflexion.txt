@@ -1,0 +1,10 @@
+💬 PREGUNTAS DE REFLEXIÓN
+
+1. ¿Qué diferencia hay entre lista y tupla?
+   Las listas son mutables [] y las tuplas son inmutables ().
+
+2. ¿Cuándo es mejor usar diccionarios?
+   Para asociar claves con valores ("Nombre": "Juan") y buscar datos rápido.
+
+3. ¿Qué estructura te pareció más útil?
+   La combinación de listas con diccionarios para manejar bases de datos.
